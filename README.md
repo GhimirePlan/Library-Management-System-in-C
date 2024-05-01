@@ -1,4 +1,29 @@
 # Library-Management-System-in-C
-This project is a basic command-line application written in C for managing a library's inventory and user records. It allows users to register, log in, add, modify, delete, and search for books. Users can also manage user accounts and track rented books. The system stores data in text files and provides essential functionalities for library management. This project is suitable for beginners learning C programming and file handling concepts. It offers a practical example of implementing basic CRUD (Create, Read, Update, Delete) operations and user authentication in a text-based environment.
+This project, developed by students of IOE Thapathali Campus - Plan Ghimire, Pranjal Shrestha, and Santosh Gadtaula, is a comprehensive Library Management System implemented in the C programming language.
 
-Feel free to adjust it based on your project's specific features and goals!
+Overview
+The Library Management System offers a user-friendly interface for both librarians and library patrons to efficiently manage library resources. It encompasses functionalities such as adding and removing books, managing member records, handling book transactions (borrowing and returning), generating reports, and more.
+
+Features
+User Authentication: Secure login system for librarians to access administrative features.
+Book Management: Add, remove, and update book information including titles, authors, genres, and copies available.
+Member Management: Maintain records of library members including personal details and borrowing history.
+Transaction Handling: Facilitate borrowing and returning of books, along with due date tracking.
+Search Functionality: Efficient search options to find books by title, author, genre, or ISBN.
+Report Generation: Generate various reports such as overdue books, popular books, and member activity.
+Usage
+Compilation: Compile the source code using a C compiler such as GCC.
+Copy code
+gcc library_management_system.c -o library_management_system
+Execution: Run the compiled executable.
+bash
+Copy code
+./library_management_system
+Follow On-Screen Instructions: Navigate through the menu options to perform desired operations.
+Contribution
+Contributions to this project are welcome. Feel free to fork the repository, make improvements, and submit pull requests.
+
+License
+This project is licensed under the MIT License.
+
+Feel free to customize the content as needed!
