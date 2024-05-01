@@ -250,7 +250,7 @@ void bookMenu()
         default:
             printf("Enter a valid case ");
         }
-        Sleep(2000);
+        Sleep(4000);
     }
 }
 
