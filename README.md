@@ -1,5 +1,5 @@
 # Library-Management-System-in-C
-This project, developed by students of IOE Thapathali Campus - Plan Ghimire, Pranjal Shrestha, and Santosh Gadtaula, is a comprehensive Library Management System implemented in the C programming language.
+This project, developed by student of IOE Thapathali Campus - Plan Ghimire is a comprehensive Library Management System implemented in the C programming language.
 
 # Overview
 The Library Management System offers a user-friendly interface for both librarians and library patrons to efficiently manage library resources. It encompasses functionalities such as adding and removing books, managing member records, handling book transactions (borrowing and returning), generating reports, and more.
