@@ -1,3 +1,30 @@
+/*
+ * Library Management System
+ * 
+ * Coded by Plan Ghimire
+ * 
+ * Description:
+ * This program is a comprehensive Library Management System designed to help manage a library's
+ * inventory and user transactions. It supports functionalities such as adding new books, deleting books,
+ * searching for books, issuing books to users, and returning books. The system maintains records of all
+ * transactions and ensures data consistency throughout various operations. It is an essential tool for
+ * efficiently handling library operations and providing a seamless experience for librarians only.
+ * 
+ * Features:
+ * - Add new books to the library database
+ * - Delete books from the library database
+ * - Search for books by title, author, or ISBN
+ * - Issue books to library members
+ * - Return books and update inventory
+ * - Display the list of all available books
+ * 
+ * This program utilizes file handling to store and retrieve data, ensuring persistence across sessions.
+ * The user interface is console-based, providing simple text-based interactions.
+ * 
+ * Version: 1.0
+ * Date: May 2, 2024
+ */
+
 #include <stdio.h>
 #include <conio.h>
 #include <string.h>
